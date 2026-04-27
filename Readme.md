@@ -2,9 +2,12 @@
 
 > Permissioned data sharing workflows for modern apps
 
+![npm version](https://img.shields.io/npm/v/consento)
+![license](https://img.shields.io/npm/l/consento)
+
 Consento is a headless TypeScript SDK for building **approval-based, multi-party data sharing flows** with cryptographic guarantees.
 
-It helps you implement patterns like:
+Consento helps you implement patterns like:
 
 - “Can I share this contact with someone?”
 - “Approve before sending sensitive data”
